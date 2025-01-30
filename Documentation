@@ -1,0 +1,10 @@
+1. PYTHON HEARTY HEART PROJECT
+
+  2. What is the purpose of your project? Tell about your project
+The purpose of my project is to create a heart shaped curve using Pythons turtle graphics. Equation used in the heart(k) and heartb(k) functions are parametric equations in the heart shape. 
+The equations define the x and y coordinates of the heart in terms of k and the goto ( ) function moves the turtle to the computed coordinates
+The bgcolor ("black") sets the background color. A red heart shape drawn on a black background.
+
+  3.  How your program works? Explain how to run your program.
+The funcion calculate the x and y coordinates of the heart shape, the input k varies over a range of values and hearta(k) control the horizontal(x) position
+while heartb(k) controls the vertical (y) position. The loop runs and computing new (x, y) moves the turtle to that position, effectively plotting the heart hape.
